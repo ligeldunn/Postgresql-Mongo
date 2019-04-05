@@ -1,4 +1,0 @@
-PostgreSQL and MongoDB database design for tracking information for a pizzeria. 
-This project uses scripts to load a large amount of data into your databases,
-measures the query performance of each database against a given set of query criteria and
-implements indexes to increase query performance.
